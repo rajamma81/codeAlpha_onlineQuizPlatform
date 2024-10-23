@@ -8,6 +8,9 @@ and conditional statements. This project involves basic
 banking operations such as deposits, withdrawals,
 checking balances, and exiting the program.
 
+
+STEPS TO IMPLEMENTING THE ONLINE QUIZE PLATFORM:-
+
 1. Plan the Application's Structure
 The application will have the following operations:
 
